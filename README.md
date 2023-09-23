@@ -64,7 +64,7 @@
 
 <!-- Statistic section -->
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanntn0811&theme=github_dark" />
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quanntn0811&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="quanntn0811" />&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=quanntn0811&show_icons=true&locale=en&theme=github_dark" alt="quanntn0811" />
 </div>
