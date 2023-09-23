@@ -72,6 +72,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=quanntn0811&show_icons=true&locale=en&theme=github_dark" alt="quanntn0811" />
   </p>
 </div>
-<div style="display: flex; aligns-item: center; justify-content: center;">
+<div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quanntn0811&theme=tokyonight" alt="quanntn0811" /></p>
 </div>
