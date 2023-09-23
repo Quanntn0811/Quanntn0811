@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Quan Ngo</h1>
 <h3 align="center">Just learn code yesterday</h3>
 
+<!--Introduction-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanntn0811&label=Profile%20views&color=0e75b6&style=flat" alt="quanntn0811" /> </p>
 
 - 🌱 I’m currently learning **C#.NET & ReactJS**
 
 - 📫 How to reach me **quanntn0811@gmail.com**
 
+<!--Connect me Section-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quan-ngo-567a24282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quan-ngo-567a24282" height="30" width="40" /></a>
@@ -14,6 +16,7 @@
 <a href="https://instagram.com/quansucno_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quansucno_11" height="30" width="40" /></a>
 </p>
 
+<!--Skill Section-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- C# -->
@@ -65,8 +68,8 @@
 <!-- Statistic section -->
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanntn0811&theme=github_dark" />
 <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quanntn0811&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="quanntn0811" />&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=quanntn0811&show_icons=true&locale=en&theme=github_dark" alt="quanntn0811" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quanntn0811&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="quanntn0811" />&nbsp;
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=quanntn0811&show_icons=true&locale=en&theme=github_dark" alt="quanntn0811" />
 </div>
 <br />
 <div align="center">
