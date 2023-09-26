@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quan Ngo</h1>
-<h3 align="center">Just learn code yesterday</h3>
+<h3 align="center">Just learnt to code yesterday</h3>
 
 <!--Introduction-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanntn0811&label=Profile%20views&color=0e75b6&style=flat" alt="quanntn0811" /> </p>
